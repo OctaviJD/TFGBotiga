@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %}Crear nou compte{% endblock %}
+
+{% block content %}
+    <h1>Crear nou compte</h1>
+    <p>Si us plau, empleneu el següent formulari:</p>
+    <form action="." method="post">
+        {{ user_form.as_p }}
+        {% csrf_token %}
+        <p><input type="submit" value="Create my account"></p>
+    </form>
+{% endblock %}

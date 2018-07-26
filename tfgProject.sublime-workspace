@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cart",
+				"cart_product_form"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"BIS",
+				"BISON_BOOL"
+			],
+			[
+				"N",
+				"NINTENDO"
+			],
+			[
+				"S",
+				"SYMBOL"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"float",
+				"floatValue"
+			],
+			[
+				"op",
+				"op2"
+			],
+			[
+				"B",
+				"BISON_STRING"
+			],
+			[
+				"str",
+				"stringValue"
+			],
+			[
+				"s",
+				"strlen"
+			],
+			[
+				"BI",
+				"BISON_STRING"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"in",
+				"intValue"
+			],
+			[
+				"BISO",
+				"BISON_INT"
+			],
+			[
+				"yy",
+				"yytext"
+			],
+			[
+				"floa",
+				"floatValue"
+			],
+			[
+				"Ca",
+				"CADENA"
+			],
+			[
+				"CA",
+				"CARACTER"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cart/cart.py",
+			"settings":
+			{
+				"buffer_size": 2088,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cart/templates/cart/detail.html",
+			"settings":
+			{
+				"buffer_size": 1988,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ojuan/tfg"
+	],
+	"file_history":
+	[
+		"/C/Users/ojuan/tfg/shop/templates/shop/product/list.html",
+		"/C/Users/ojuan/tfg/shop/templates/shop/product/detail.html",
+		"/C/Users/ojuan/tfg/shop/templates/shop/shop.html",
+		"/C/Users/ojuan/tfg/account/templates/account/register_done.html",
+		"/C/Users/ojuan/tfg/account/templates/account/register.html",
+		"/C/Users/ojuan/tfg/account/templates/account/login.html",
+		"/C/Users/ojuan/tfg/account/templates/registration/password_reset_form.html",
+		"/C/Users/ojuan/tfg/account/templates/registration/login.html",
+		"/C/Users/ojuan/tfg/account/templates/registration/logged_out.html",
+		"/C/Users/ojuan/tfg/account/views.py",
+		"/C/Users/ojuan/tfg/account/templates/registration/password_reset_confirm.html",
+		"/C/Users/ojuan/tfg/account/templates/registration/password_reset_complete.html",
+		"/C/Users/ojuan/tfg/account/templates/registration/password_change_done.html",
+		"/C/Users/ojuan/tfg/account/templates/registration/password_change_form.html",
+		"/C/Users/ojuan/tfg/account/templates/base.html",
+		"/C/Users/ojuan/tfg/shop/static/css/shop.css",
+		"/C/Users/ojuan/tfg/shop/urls.py",
+		"/C/Users/ojuan/tfg/account/urls.py",
+		"/C/Users/ojuan/tfg/account/static/css/base.css",
+		"/C/Users/ojuan/tfg/cart/templates/cart/detail.html",
+		"/C/Users/ojuan/tfg/tfg/urls.py",
+		"/C/Users/ojuan/tfg/orders/urls.py",
+		"/C/Users/ojuan/tfg/orders/templates/orders/order/created.html",
+		"/C/Users/ojuan/tfg/orders/templates/orders/order/create.html",
+		"/C/Users/ojuan/tfg/orders/views.py",
+		"/C/Users/ojuan/tfg/orders/forms.py",
+		"/C/Users/ojuan/tfg/orders/admin.py",
+		"/C/Users/ojuan/tfg/orders/models.py",
+		"/C/Users/ojuan/tfg/tfg/settings.py",
+		"/C/Users/Octavi/tfg/shop/urls.py",
+		"/C/Users/Octavi/tfg/tfg/urls.py",
+		"/C/Users/Octavi/tfg/shop/templates/shop/product/list.html",
+		"/C/Users/Octavi/tfg/shop/templates/shop/shop.html",
+		"/C/Users/Octavi/tfg/shop/templates/shop/product/detail.html",
+		"/C/Users/Octavi/tfg/shop/views.py",
+		"/C/Users/Octavi/tfg/shop/admin.py",
+		"/C/Users/Octavi/tfg/shop/models.py",
+		"/C/Users/Octavi/tfg/cart/urls.py",
+		"/C/Users/Octavi/tfg/cart/templates/cart/detail.html",
+		"/C/Users/Octavi/tfg/cart/views.py",
+		"/C/Users/Octavi/tfg/cart/forms.py",
+		"/C/Users/Octavi/tfg/cart/context_processors.py",
+		"/C/Users/Octavi/tfg/cart/cart.py",
+		"/C/Users/Octavi/tfg/tfg/settings.py",
+		"/C/Users/Octavi/tfg/account/forms.py",
+		"/C/Users/Octavi/tfg/account/views.py",
+		"/C/Users/Octavi/tfg/account/templates/account/login.html",
+		"/C/Users/Octavi/tfg/account/templates/base.html",
+		"/C/Users/Octavi/tfg/account/templates/registration/logged_out.html",
+		"/C/Users/Octavi/tfg/account/templates/registration/login.html",
+		"/C/Users/Octavi/tfg/account/templates/registration/password_reset_email.html",
+		"/C/Users/Octavi/tfg/account/urls.py",
+		"/C/Users/Octavi/tfg/account/templates/account/dashboard.html",
+		"/C/Users/Octavi/tfg/account/templates/account/register_done.html",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/flex.l",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/bison.y",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P3/3acode.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P3/p3.y",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P3/Prac3.l",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/flex.l",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P3/symtab.c",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/symtab.c",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/output.txt",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P3/symtab.h",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/symtab.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P3/3acode.c",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/head.h",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P3/executar.sh",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/launch.sh",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task3/test",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P3/README.txt",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/Prac2.l",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/executar.sh",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/Prac2.y",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/test.calc",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/symtab.h",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/symtab.c",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/operacions.c",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P2/test3.prog",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/operations.c",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test3.prog",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/launch.sh",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test.prog",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test2.prog",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/test2.prog",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/Informe.txt",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/ReadMe.txt",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/symtab.h",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/symtab.c",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/p2.l",
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/operacions.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/p2.y",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test.calc",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/tipos.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.c",
+		"/C/Users/Octavi/Desktop/Prac3 IA/P3_octaviJuanDalmau.bat",
+		"/C/Users/Octavi/Desktop/Prac3 IA/P3_octaviJuanDalmau.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.668/regles.bat",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.668/regles.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.326/labo2.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.326/labo2.bat",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.819/labo1.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.819/labo1.bat",
+		"/C/Users/Octavi/Desktop/Practica3/Practica3_alfredBarbero.bat",
+		"/C/Users/Octavi/Desktop/Practica3/Practica3_alfredBarbero.clp",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/Prac1.y",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/Prac1.l",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/operacions.h",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/operacions.c",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/p1.y",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/test.prog",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/p1.l",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/operaciones.c",
+		"/C/Users/Octavi/Desktop/P1_compiladors/executar.sh",
+		"/C/Users/Octavi/Desktop/P1_compiladors/Informe.txt",
+		"/C/Users/Octavi/Desktop/P1_compiladors/prova.txt",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task1/ReadMe.txt",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/README.txt",
+		"/C/Users/Octavi/Desktop/P1_compiladors/test1.calc",
+		"/C/Users/Octavi/Desktop/P1_compiladors/test3.calc",
+		"/C/Users/Octavi/Desktop/P1_compiladors/test2.calc",
+		"/C/Users/Octavi/Desktop/P1_compiladors/input2.txt",
+		"/C/Users/Octavi/Desktop/P1_compiladors/input.txt",
+		"/C/Users/Octavi/Desktop/P1_compiladors/operacions.c",
+		"/C/Users/Octavi/Desktop/P1_compiladors/operacions.h",
+		"/C/Users/Octavi/Desktop/P1_compiladors/Prac1.l",
+		"/C/Users/Octavi/Desktop/P1_compiladors/Prac1.y"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sho",
+			"quan",
+			"base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cart/cart.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1852,
+								1852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cart/templates/cart/detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1517,
+								1517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tfgProject.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}

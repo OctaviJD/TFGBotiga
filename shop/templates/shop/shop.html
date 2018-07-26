@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>{% block title %}Peix a casa{% endblock %}</title>
+    <link href="{% static "css/shop.css" %}" rel="stylesheet">
+</head>
+<body>
+    <div id="header">
+        <a href="/" class="logo">Peix a casa</a>
+    </div>
+    <div id="subheader">
+        <div class="cart">
+            {% with total_items=cart|length %}
+                {% if cart|length > 0 %}
+                    La meva cistella: 
+                    <a href="{% url "cart:cart_detail" %}">
+                        {{ total_items }} producte{{ total_items|pluralize }}, {{ cart.get_total_price }} €
+                    </a>
+                {% else %}
+                    La meva cistella està buida.
+                {% endif %}
+            {% endwith %}
+        </div>
+    </div>
+    <div id="content">
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+</html>
