@@ -1,0 +1,12 @@
+{% extends "shop/shop.html" %}
+{% load static %}
+
+{% block content %}
+    {% for recipe in recipes %}
+			<div>
+				<p>published: {{ recipe.published_date }}</p>
+				<h1><a href="">{{ recipe.title }}</a></h1>
+				<p>{{ recipe.text|linebreaksbr }}</p>
+			</div>
+		{% endfor %}
+{% endblock %}
