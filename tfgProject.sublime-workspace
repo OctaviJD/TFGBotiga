@@ -4,20 +4,56 @@
 		"selected_items":
 		[
 			[
-				"margin-",
-				"margin-top\tproperty"
+				"di",
+				"div\tTag"
 			],
 			[
-				"w",
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wi",
 				"width\tproperty"
 			],
 			[
-				"max",
-				"max-height\tproperty"
-			],
-			[
-				"reci",
-				"recipes"
+				"log",
+				"logout"
 			],
 			[
 				"cart",
@@ -100,19 +136,10 @@
 	"buffers":
 	[
 		{
-			"file": "recipe/templates/recipe/recipe_list.html",
-			"settings":
-			{
-				"buffer_size": 289,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "shop/templates/shop/shop.html",
 			"settings":
 			{
-				"buffer_size": 3904,
+				"buffer_size": 4219,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -121,16 +148,25 @@
 			"file": "cart/templates/cart/detail.html",
 			"settings":
 			{
-				"buffer_size": 2214,
+				"buffer_size": 2217,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "shop/static/css/shop.css",
+			"file": "orders/templates/orders/order/create.html",
 			"settings":
 			{
-				"buffer_size": 4678,
+				"buffer_size": 652,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shop/templates/shop/product/list.html",
+			"settings":
+			{
+				"buffer_size": 1224,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -147,16 +183,12 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"insta",
-				"Package Control: Install Package"
-			]
 		],
 		"width": 0.0
 	},
 	"console":
 	{
-		"height": 143.0,
+		"height": 0.0,
 		"history":
 		[
 		]
@@ -172,55 +204,41 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Octavi/TFGBotiga",
-		"/C/Users/Octavi/TFGBotiga/account",
-		"/C/Users/Octavi/TFGBotiga/cart",
-		"/C/Users/Octavi/TFGBotiga/cart/templates",
-		"/C/Users/Octavi/TFGBotiga/cart/templates/cart",
-		"/C/Users/Octavi/TFGBotiga/orders",
-		"/C/Users/Octavi/TFGBotiga/orders/templates",
-		"/C/Users/Octavi/TFGBotiga/orders/templates/orders",
-		"/C/Users/Octavi/TFGBotiga/orders/templates/orders/order"
+		"/C/Users/ojuan/TFGBotiga",
+		"/C/Users/ojuan/TFGBotiga/account",
+		"/C/Users/ojuan/TFGBotiga/cart",
+		"/C/Users/ojuan/TFGBotiga/cart/templates",
+		"/C/Users/ojuan/TFGBotiga/cart/templates/cart",
+		"/C/Users/ojuan/TFGBotiga/orders",
+		"/C/Users/ojuan/TFGBotiga/orders/templates",
+		"/C/Users/ojuan/TFGBotiga/orders/templates/orders",
+		"/C/Users/ojuan/TFGBotiga/orders/templates/orders/order",
+		"/C/Users/ojuan/TFGBotiga/shop",
+		"/C/Users/ojuan/TFGBotiga/shop/static",
+		"/C/Users/ojuan/TFGBotiga/shop/templates",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product"
 	],
 	"file_history":
 	[
-		"/C/Users/Octavi/TFGBotiga/orders/templates/orders/order/create.html",
-		"/C/Users/Octavi/TFGBotiga/shop/templates/shop/shop.html",
-		"/D/Desktop/descarga.png",
-		"/C/Users/Octavi/TFGBotiga/account/models.py",
-		"/C/Users/Octavi/TFGBotiga/account/admin.py",
-		"/C/Users/Octavi/TFGBotiga/account/static/css/base.css",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_form.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_done.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_confirm.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/account/login.html",
-		"/C/Users/Octavi/TFGBotiga/shop/static/css/shop.css",
-		"/C/Users/Octavi/TFGBotiga/account/templates/base.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/account/edit.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/account/dashboard.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/account/register.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/account/register_done.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/logged_out.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/login.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_change_done.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_complete.html",
-		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_change_form.html",
-		"/C/Users/Octavi/TFGBotiga/shop/templates/shop/bar.html",
-		"/C/Users/Octavi/TFGBotiga/shop/templates/shop/product/list.html",
-		"/C/Users/Octavi/TFGBotiga/shop/views.py",
-		"/C/Users/Octavi/TFGBotiga/tfg/settings.py",
-		"/C/Users/Octavi/TFGBotiga/account/urls.py",
-		"/C/Users/Octavi/TFGBotiga/recipe/templates/recipe/recipe_list.html",
-		"/C/Users/Octavi/TFGBotiga/recipe/views.py",
-		"/C/Users/Octavi/TFGBotiga/recipe/static/css/recipe.css",
-		"/C/Users/Octavi/TFGBotiga/recipe/urls.py",
-		"/C/Users/Octavi/TFGBotiga/recipe/static/urls.py",
-		"/C/Users/Octavi/TFGBotiga/tfg/urls.py",
-		"/C/Users/Octavi/TFGBotiga/recipe/admin.py",
-		"/C/Users/Octavi/TFGBotiga/recipe/models.py",
-		"/C/Users/Octavi/TFGBotiga/shop/urls.py",
-		"/C/Users/Octavi/TFGBotiga/cart/templates/cart/detail.html",
-		"/C/Users/Octavi/TFGBotiga/cart/cart.py",
+		"/C/Users/ojuan/TFGBotiga/recipe/templates/recipe/recipe_list.html",
+		"/C/Users/ojuan/TFGBotiga/shop/static/css/shop.css",
+		"/C/Users/ojuan/TFGBotiga/account/templates/account/register.html",
+		"/C/Users/ojuan/TFGBotiga/account/templates/account/dashboard.html",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product/detail.html",
+		"/C/Users/ojuan/TFGBotiga/shop/views.py",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product/list.html",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/shop.html",
+		"/C/Users/ojuan/TFGBotiga/account/forms.py",
+		"/C/Users/ojuan/TFGBotiga/account/admin.py",
+		"/C/Users/ojuan/TFGBotiga/tfg/settings.py",
+		"/C/Users/ojuan/TFGBotiga/account/models.py",
+		"/C/Users/ojuan/TFGBotiga/account/urls.py",
+		"/C/Users/ojuan/TFGBotiga/account/templates/account/edit.html",
+		"/C/Users/ojuan/TFGBotiga/account/views.py",
+		"/C/Users/ojuan/TFGBotiga/account/templates/base.html",
+		"/C/Users/ojuan/TFGBotiga/cart/cart.py",
+		"/C/Users/ojuan/TFGBotiga/cart/templates/cart/detail.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/product/list.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/product/detail.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/shop.html",
@@ -311,7 +329,26 @@
 		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/symtab.h",
 		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/symtab.c",
 		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/p2.l",
-		"/C/Users/Octavi/Desktop/OctaviJuan_P2/operacions.h"
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/operacions.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/p2.y",
+		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test.calc",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/tipos.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.h",
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.c",
+		"/C/Users/Octavi/Desktop/Prac3 IA/P3_octaviJuanDalmau.bat",
+		"/C/Users/Octavi/Desktop/Prac3 IA/P3_octaviJuanDalmau.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.668/regles.bat",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.668/regles.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.326/labo2.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.326/labo2.bat",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.819/labo1.clp",
+		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.819/labo1.bat",
+		"/C/Users/Octavi/Desktop/Practica3/Practica3_alfredBarbero.bat",
+		"/C/Users/Octavi/Desktop/Practica3/Practica3_alfredBarbero.clp",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/Prac1.y",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/Prac1.l",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/operacions.h",
+		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/operacions.c"
 	],
 	"find":
 	{
@@ -329,10 +366,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"actu",
-			"categ",
-			"colum",
-			"post",
+			"$",
+			"€",
+			"quan",
+			"img",
+			"menu",
+			"img",
+			"cart",
+			"item",
 			"sho",
 			"quan",
 			"base"
@@ -343,7 +384,8 @@
 		"regex": false,
 		"replace_history":
 		[
-			"recipe"
+			"€",
+			"€/Kg"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -354,53 +396,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "recipe/templates/recipe/recipe_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 289,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								69,
-								69
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "shop/templates/shop/shop.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3904,
+						"buffer_size": 4219,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2308,
-								2308
+								1675,
+								1675
 							]
 						],
 						"settings":
@@ -410,27 +423,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 565.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "cart/templates/cart/detail.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2214,
+						"buffer_size": 2217,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1427,
-								1427
+								1496,
+								1496
 							]
 						],
 						"settings":
@@ -447,552 +460,63 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "shop/static/css/shop.css",
+					"buffer": 2,
+					"file": "orders/templates/orders/order/create.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4678,
+						"buffer_size": 652,
 						"regions":
 						{
-							"col_1B6D32FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										2253,
-										2260
-									]
-								],
-								"scope": "col_1B6D32FF"
-							},
-							"col_1B6D32FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_1B6D32FF_circle.png",
-								"regions":
-								[
-									[
-										2243,
-										2243
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_1CDF78FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										1702,
-										1709
-									],
-									[
-										1836,
-										1843
-									]
-								],
-								"scope": "col_1CDF78FF"
-							},
-							"col_1CDF78FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_1CDF78FF_circle.png",
-								"regions":
-								[
-									[
-										1677,
-										1677
-									],
-									[
-										1808,
-										1808
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_333333FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										3358,
-										3362
-									],
-									[
-										3720,
-										3724
-									]
-								],
-								"scope": "col_333333FF"
-							},
-							"col_333333FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_333333FF_circle.png",
-								"regions":
-								[
-									[
-										3348,
-										3348
-									],
-									[
-										3710,
-										3710
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_444444FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										2461,
-										2465
-									]
-								],
-								"scope": "col_444444FF"
-							},
-							"col_444444FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_444444FF_circle.png",
-								"regions":
-								[
-									[
-										2451,
-										2451
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_5993BBFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										270,
-										277
-									],
-									[
-										378,
-										385
-									],
-									[
-										923,
-										930
-									],
-									[
-										1652,
-										1659
-									],
-									[
-										1783,
-										1790
-									],
-									[
-										2908,
-										2915
-									],
-									[
-										3754,
-										3761
-									],
-									[
-										3793,
-										3800
-									]
-								],
-								"scope": "col_5993BBFF"
-							},
-							"col_5993BBFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_5993BBFF_circle.png",
-								"regions":
-								[
-									[
-										260,
-										260
-									],
-									[
-										363,
-										363
-									],
-									[
-										908,
-										908
-									],
-									[
-										1637,
-										1637
-									],
-									[
-										1768,
-										1768
-									],
-									[
-										2893,
-										2893
-									],
-									[
-										3726,
-										3726
-									],
-									[
-										3783,
-										3783
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_666666FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										497,
-										501
-									],
-									[
-										1434,
-										1438
-									]
-								],
-								"scope": "col_666666FF"
-							},
-							"col_666666FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_666666FF_circle.png",
-								"regions":
-								[
-									[
-										487,
-										487
-									],
-									[
-										1424,
-										1424
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_77B6E2FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										302,
-										309
-									]
-								],
-								"scope": "col_77B6E2FF"
-							},
-							"col_77B6E2FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_77B6E2FF_circle.png",
-								"regions":
-								[
-									[
-										292,
-										292
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_CCCCCCFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										872,
-										876
-									]
-								],
-								"scope": "col_CCCCCCFF"
-							},
-							"col_CCCCCCFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_CCCCCCFF_circle.png",
-								"regions":
-								[
-									[
-										857,
-										857
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_DC1616FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										3991,
-										3998
-									]
-								],
-								"scope": "col_DC1616FF"
-							},
-							"col_DC1616FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_DC1616FF_circle.png",
-								"regions":
-								[
-									[
-										3981,
-										3981
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_ECECECFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										2442,
-										2449
-									]
-								],
-								"scope": "col_ECECECFF"
-							},
-							"col_ECECECFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_ECECECFF_circle.png",
-								"regions":
-								[
-									[
-										2427,
-										2427
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_EDEDEDFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										518,
-										525
-									]
-								],
-								"scope": "col_EDEDEDFF"
-							},
-							"col_EDEDEDFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_EDEDEDFF_circle.png",
-								"regions":
-								[
-									[
-										503,
-										503
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_EFEFEFFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										825,
-										832
-									],
-									[
-										1415,
-										1422
-									],
-									[
-										3678,
-										3685
-									]
-								],
-								"scope": "col_EFEFEFFF"
-							},
-							"col_EFEFEFFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_EFEFEFFF_circle.png",
-								"regions":
-								[
-									[
-										810,
-										810
-									],
-									[
-										1400,
-										1400
-									],
-									[
-										3663,
-										3663
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_F3F7CCFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										1969,
-										1976
-									],
-									[
-										2309,
-										2316
-									]
-								],
-								"scope": "col_F3F7CCFF"
-							},
-							"col_F3F7CCFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_F3F7CCFF_circle.png",
-								"regions":
-								[
-									[
-										1959,
-										1959
-									],
-									[
-										2299,
-										2299
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_FF0000FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										1505,
-										1512
-									]
-								],
-								"scope": "col_FF0000FF"
-							},
-							"col_FF0000FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
-								"regions":
-								[
-									[
-										1496,
-										1496
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_FFFFFFFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										357,
-										361
-									],
-									[
-										942,
-										946
-									],
-									[
-										1671,
-										1675
-									],
-									[
-										1802,
-										1806
-									],
-									[
-										2348,
-										2352
-									],
-									[
-										2981,
-										2985
-									]
-								],
-								"scope": "col_FFFFFFFF"
-							},
-							"col_FFFFFFFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
-								"regions":
-								[
-									[
-										347,
-										347
-									],
-									[
-										932,
-										932
-									],
-									[
-										1661,
-										1661
-									],
-									[
-										1792,
-										1792
-									],
-									[
-										2338,
-										2338
-									],
-									[
-										2971,
-										2971
-									]
-								],
-								"scope": "col_gutter"
-							}
 						},
 						"selection":
 						[
 							[
-								2167,
-								2167
+								500,
+								505
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1781.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "shop/templates/shop/product/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1157,
+								1158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1000,7 +524,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 39.0
 	},
 	"input":
 	{
@@ -1084,7 +608,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 219.0,
+	"side_bar_width": 279.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
