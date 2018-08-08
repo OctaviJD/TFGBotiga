@@ -2,20 +2,24 @@
 {% load static %}
 
 {% block content %}
-	<h1 style="font-size: 50px">Receptes</h1>
 	
-    {% for recipe in recipes %}
-
-		<div class="recipe">
-				<h1 style="margin-bottom: 1;"><a href="">{{ recipe.title }}</a></h1>
-				<div class="ex2">
-					<img src="{% if recipe.image %}{{ recipe.image.url }}{% else %}{% static "img/no_image.png" %}{% endif %}">
-					<li>{{ recipe.text|linebreaksbr }}</li>
-				</div>
-
-				
-				<p style="font-size: 12px; padding: 7px">Publicat: {{ recipe.published_date }}</p>
-		</div> 
-		{% endfor %}
+	
+    <div id="main" class="recipe-list">
+        <h1 style="font-size: 50px">Receptes</h1>
+        {% for recipe in recipes %}
+    	 <div class="item">
+		<div class="card" style="width: 18rem;overflow-x: auto;">
+			<img class="card-img-top" src="{% if recipe.image %}{{ recipe.image.url }}{% else %}{% static "img/no_image.png" %}{% endif %}">
+		  	<div class="card-body">
+		    	<h5 class="card-title"><a href="">{{ recipe.title }}</a></h5>
+		    	<p class="card-text"><li>{{ recipe.text|linebreaksbr }}</li></p>
+		    	<a href="#" class="btn btn-primary">Veure recepta</a>
+		  	</div>
+		  </div>
+		</div>
+	
+	{% endfor %}
+    </div>
 	
 {% endblock %}
+
