@@ -4,56 +4,24 @@
 		"selected_items":
 		[
 			[
-				"di",
-				"div\tTag"
+				"order",
+				"order_detail"
 			],
 			[
-				"pad",
-				"padding-bottom\tproperty"
+				"margin-",
+				"margin-top\tproperty"
 			],
 			[
-				"pa",
-				"padding-right\tproperty"
-			],
-			[
-				"ove",
-				"overflow-x\tproperty"
-			],
-			[
-				"mar",
-				"margin-bottom\tproperty"
-			],
-			[
-				"font",
-				"font-size\tproperty"
-			],
-			[
-				"fon",
-				"font-size\tproperty"
-			],
-			[
-				"col",
-				"color\tproperty"
-			],
-			[
-				"ti",
-				"title\tTag"
-			],
-			[
-				"ps",
-				"position\tproperty"
-			],
-			[
-				"h",
-				"height\tproperty"
-			],
-			[
-				"wi",
+				"w",
 				"width\tproperty"
 			],
 			[
-				"log",
-				"logout"
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"reci",
+				"recipes"
 			],
 			[
 				"cart",
@@ -147,12 +115,16 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
 		],
 		"width": 0.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 143.0,
 		"history":
 		[
 		]
@@ -168,51 +140,55 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/ojuan/TFGBotiga",
-		"/C/Users/ojuan/TFGBotiga/orders",
-		"/C/Users/ojuan/TFGBotiga/payment",
-		"/C/Users/ojuan/TFGBotiga/payment/templates",
-		"/C/Users/ojuan/TFGBotiga/payment/templates/payment",
-		"/C/Users/ojuan/TFGBotiga/shop",
-		"/C/Users/ojuan/TFGBotiga/shop/templates",
-		"/C/Users/ojuan/TFGBotiga/shop/templates/shop",
-		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product",
-		"/C/Users/ojuan/TFGBotiga/tfg"
+		"/C/Users/Octavi/TFGBotiga",
+		"/C/Users/Octavi/TFGBotiga/payment",
+		"/C/Users/Octavi/TFGBotiga/tfg"
 	],
 	"file_history":
 	[
-		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product/list.html",
-		"/C/Users/ojuan/TFGBotiga/orders/templates/orders/order/create.html",
-		"/C/Users/ojuan/TFGBotiga/payment/templates/payment/canceled.html",
-		"/C/Users/ojuan/TFGBotiga/payment/templates/payment/process.html",
-		"/C/Users/ojuan/TFGBotiga/payment/templates/payment/done.html",
-		"/C/Users/ojuan/TFGBotiga/tfg/urls.py",
-		"/C/Users/ojuan/TFGBotiga/tfg/settings.py",
-		"/C/Users/ojuan/TFGBotiga/payment/__init__.py",
-		"/C/Users/ojuan/TFGBotiga/payment/apps.py",
-		"/C/Users/ojuan/TFGBotiga/payment/signals.py",
-		"/C/Users/ojuan/TFGBotiga/payment/urls.py",
-		"/C/Users/ojuan/TFGBotiga/payment/views.py",
-		"/C/Users/ojuan/TFGBotiga/orders/views.py",
-		"/C/Users/ojuan/TFGBotiga/orders/tasks.py",
-		"/C/Users/ojuan/TFGBotiga/tfg/__init__.py",
-		"/C/Users/ojuan/TFGBotiga/tfg/celery.py",
-		"/C/Users/ojuan/TFGBotiga/cart/templates/cart/detail.html",
-		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/shop.html",
-		"/C/Users/ojuan/TFGBotiga/recipe/templates/recipe/recipe_list.html",
-		"/C/Users/ojuan/TFGBotiga/shop/static/css/shop.css",
-		"/C/Users/ojuan/TFGBotiga/account/templates/account/register.html",
-		"/C/Users/ojuan/TFGBotiga/account/templates/account/dashboard.html",
-		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product/detail.html",
-		"/C/Users/ojuan/TFGBotiga/shop/views.py",
-		"/C/Users/ojuan/TFGBotiga/account/forms.py",
-		"/C/Users/ojuan/TFGBotiga/account/admin.py",
-		"/C/Users/ojuan/TFGBotiga/account/models.py",
-		"/C/Users/ojuan/TFGBotiga/account/urls.py",
-		"/C/Users/ojuan/TFGBotiga/account/templates/account/edit.html",
-		"/C/Users/ojuan/TFGBotiga/account/views.py",
-		"/C/Users/ojuan/TFGBotiga/account/templates/base.html",
-		"/C/Users/ojuan/TFGBotiga/cart/cart.py",
+		"/C/Users/Octavi/TFGBotiga/tfg/urls.py",
+		"/C/Users/Octavi/TFGBotiga/payment/signals.py",
+		"/C/Users/Octavi/TFGBotiga/payment/apps.py",
+		"/C/Users/Octavi/TFGBotiga/orders/urls.py",
+		"/C/Users/Octavi/TFGBotiga/tfg/settings.py",
+		"/C/Users/Octavi/TFGBotiga/orders/views.py",
+		"/C/Users/Octavi/TFGBotiga/orders/admin.py",
+		"/D/Desktop/tutorials/Chapter 8/myshop/payment/apps.py",
+		"/C/Users/Octavi/TFGBotiga/shop/static/css/shop.css",
+		"/C/Users/Octavi/TFGBotiga/recipe/templates/recipe/recipe_list.html",
+		"/C/Users/Octavi/TFGBotiga/cart/templates/cart/detail.html",
+		"/C/Users/Octavi/TFGBotiga/shop/templates/shop/shop.html",
+		"/C/Users/Octavi/TFGBotiga/orders/templates/orders/order/create.html",
+		"/D/Desktop/descarga.png",
+		"/C/Users/Octavi/TFGBotiga/account/models.py",
+		"/C/Users/Octavi/TFGBotiga/account/admin.py",
+		"/C/Users/Octavi/TFGBotiga/account/static/css/base.css",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_form.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_done.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_confirm.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/account/login.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/base.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/account/edit.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/account/dashboard.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/account/register.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/account/register_done.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/logged_out.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/login.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_change_done.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_reset_complete.html",
+		"/C/Users/Octavi/TFGBotiga/account/templates/registration/password_change_form.html",
+		"/C/Users/Octavi/TFGBotiga/shop/templates/shop/bar.html",
+		"/C/Users/Octavi/TFGBotiga/shop/templates/shop/product/list.html",
+		"/C/Users/Octavi/TFGBotiga/shop/views.py",
+		"/C/Users/Octavi/TFGBotiga/account/urls.py",
+		"/C/Users/Octavi/TFGBotiga/recipe/views.py",
+		"/C/Users/Octavi/TFGBotiga/recipe/static/css/recipe.css",
+		"/C/Users/Octavi/TFGBotiga/recipe/urls.py",
+		"/C/Users/Octavi/TFGBotiga/recipe/static/urls.py",
+		"/C/Users/Octavi/TFGBotiga/recipe/admin.py",
+		"/C/Users/Octavi/TFGBotiga/recipe/models.py",
+		"/C/Users/Octavi/TFGBotiga/shop/urls.py",
+		"/C/Users/Octavi/TFGBotiga/cart/cart.py",
 		"/C/Users/ojuan/tfg/shop/templates/shop/product/list.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/product/detail.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/shop.html",
@@ -297,22 +273,11 @@
 		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/launch.sh",
 		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test.prog",
 		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test2.prog",
-		"/C/Users/Octavi/Desktop/OctaviJuan_P2/test2.prog",
-		"/C/Users/Octavi/Desktop/OctaviJuan_P2/Informe.txt",
-		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/ReadMe.txt",
-		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/symtab.h",
-		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/symtab.c",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/p2.l",
-		"/C/Users/Octavi/Desktop/OctaviJuan_P2/operacions.h",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/p2.y",
-		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test.calc",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/tipos.h",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.h",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.c"
+		"/C/Users/Octavi/Desktop/OctaviJuan_P2/test2.prog"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -326,14 +291,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"$",
-			"€",
-			"quan",
-			"img",
-			"menu",
-			"img",
-			"cart",
-			"item",
+			"paypal.st",
+			"actu",
+			"categ",
+			"colum",
+			"post",
 			"sho",
 			"quan",
 			"base"
@@ -344,8 +306,7 @@
 		"regex": false,
 		"replace_history":
 		[
-			"€",
-			"€/Kg"
+			"recipe"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -363,7 +324,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -400,7 +361,7 @@
 	"project": "tfgProject.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -447,7 +408,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 279.0,
+	"side_bar_width": 219.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
