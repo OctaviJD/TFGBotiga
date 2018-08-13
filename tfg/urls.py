@@ -25,6 +25,8 @@ urlpatterns = [
     url(r'^cart/', include('cart.urls', namespace='cart')),
     url(r'^orders/', include('orders.urls', namespace='orders')),
     url(r'^recipe/', include('recipe.urls', namespace='recipe')),
+    url(r'^payment/', include('payment.urls', namespace='payment')),
+    url(r'^paypal/', include('paypal.standard.ipn.urls')),
     url(r'^', include('shop.urls', namespace='shop')),
     url(r'^favicon\.ico$', RedirectView.as_view(url='/static/favicon.ico')),
 ]

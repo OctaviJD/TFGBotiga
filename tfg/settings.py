@@ -41,6 +41,8 @@ INSTALLED_APPS = (
     'cart',
     'orders',
     'recipe',
+    'paypal.standard.ipn',
+    'payment',
 
 )
 
@@ -124,4 +126,6 @@ LOGOUT_URL = reverse_lazy('logout')
 #EMAIL_PORT = 587
 #EMAIL_USE_TLS = True
 
-
+# django-paypal settings
+PAYPAL_RECEIVER_EMAIL = 'peixacasatgn@gmail.com'
+PAYPAL_TEST = True

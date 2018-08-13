@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
 				"cart",
 				"cart_product_form"
 			],
@@ -83,51 +135,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "shop/templates/shop/shop.html",
-			"settings":
-			{
-				"buffer_size": 4302,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tfg/urls.py",
-			"settings":
-			{
-				"buffer_size": 1354,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "recipe/templates/recipe/recipe_list.html",
-			"settings":
-			{
-				"buffer_size": 725,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "shop/static/css/shop.css",
-			"settings":
-			{
-				"buffer_size": 5552,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "shop/templates/shop/product/list.html",
-			"settings":
-			{
-				"buffer_size": 1224,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -161,23 +168,51 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Octavi/tfg",
-		"/C/Users/Octavi/tfg/recipe",
-		"/C/Users/Octavi/tfg/recipe/templates",
-		"/C/Users/Octavi/tfg/recipe/templates/recipe",
-		"/C/Users/Octavi/tfg/shop",
-		"/C/Users/Octavi/tfg/shop/templates",
-		"/C/Users/Octavi/tfg/shop/templates/shop",
-		"/C/Users/Octavi/tfg/shop/templates/shop/product",
-		"/C/Users/Octavi/tfg/tfg"
+		"/C/Users/ojuan/TFGBotiga",
+		"/C/Users/ojuan/TFGBotiga/orders",
+		"/C/Users/ojuan/TFGBotiga/payment",
+		"/C/Users/ojuan/TFGBotiga/payment/templates",
+		"/C/Users/ojuan/TFGBotiga/payment/templates/payment",
+		"/C/Users/ojuan/TFGBotiga/shop",
+		"/C/Users/ojuan/TFGBotiga/shop/templates",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product",
+		"/C/Users/ojuan/TFGBotiga/tfg"
 	],
 	"file_history":
 	[
-		"/C/Users/Octavi/tfg/account/forms.py",
-		"/C/Users/Octavi/tfg/orders/views.py",
-		"/C/Users/Octavi/tfg/tfg/settings.py",
-		"/C/Users/Octavi/tfg/cart/templates/cart/detail.html",
-		"/C/Users/Octavi/tfg/cart/cart.py",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product/list.html",
+		"/C/Users/ojuan/TFGBotiga/orders/templates/orders/order/create.html",
+		"/C/Users/ojuan/TFGBotiga/payment/templates/payment/canceled.html",
+		"/C/Users/ojuan/TFGBotiga/payment/templates/payment/process.html",
+		"/C/Users/ojuan/TFGBotiga/payment/templates/payment/done.html",
+		"/C/Users/ojuan/TFGBotiga/tfg/urls.py",
+		"/C/Users/ojuan/TFGBotiga/tfg/settings.py",
+		"/C/Users/ojuan/TFGBotiga/payment/__init__.py",
+		"/C/Users/ojuan/TFGBotiga/payment/apps.py",
+		"/C/Users/ojuan/TFGBotiga/payment/signals.py",
+		"/C/Users/ojuan/TFGBotiga/payment/urls.py",
+		"/C/Users/ojuan/TFGBotiga/payment/views.py",
+		"/C/Users/ojuan/TFGBotiga/orders/views.py",
+		"/C/Users/ojuan/TFGBotiga/orders/tasks.py",
+		"/C/Users/ojuan/TFGBotiga/tfg/__init__.py",
+		"/C/Users/ojuan/TFGBotiga/tfg/celery.py",
+		"/C/Users/ojuan/TFGBotiga/cart/templates/cart/detail.html",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/shop.html",
+		"/C/Users/ojuan/TFGBotiga/recipe/templates/recipe/recipe_list.html",
+		"/C/Users/ojuan/TFGBotiga/shop/static/css/shop.css",
+		"/C/Users/ojuan/TFGBotiga/account/templates/account/register.html",
+		"/C/Users/ojuan/TFGBotiga/account/templates/account/dashboard.html",
+		"/C/Users/ojuan/TFGBotiga/shop/templates/shop/product/detail.html",
+		"/C/Users/ojuan/TFGBotiga/shop/views.py",
+		"/C/Users/ojuan/TFGBotiga/account/forms.py",
+		"/C/Users/ojuan/TFGBotiga/account/admin.py",
+		"/C/Users/ojuan/TFGBotiga/account/models.py",
+		"/C/Users/ojuan/TFGBotiga/account/urls.py",
+		"/C/Users/ojuan/TFGBotiga/account/templates/account/edit.html",
+		"/C/Users/ojuan/TFGBotiga/account/views.py",
+		"/C/Users/ojuan/TFGBotiga/account/templates/base.html",
+		"/C/Users/ojuan/TFGBotiga/cart/cart.py",
 		"/C/Users/ojuan/tfg/shop/templates/shop/product/list.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/product/detail.html",
 		"/C/Users/ojuan/tfg/shop/templates/shop/shop.html",
@@ -216,9 +251,13 @@
 		"/C/Users/Octavi/tfg/shop/admin.py",
 		"/C/Users/Octavi/tfg/shop/models.py",
 		"/C/Users/Octavi/tfg/cart/urls.py",
+		"/C/Users/Octavi/tfg/cart/templates/cart/detail.html",
 		"/C/Users/Octavi/tfg/cart/views.py",
 		"/C/Users/Octavi/tfg/cart/forms.py",
 		"/C/Users/Octavi/tfg/cart/context_processors.py",
+		"/C/Users/Octavi/tfg/cart/cart.py",
+		"/C/Users/Octavi/tfg/tfg/settings.py",
+		"/C/Users/Octavi/tfg/account/forms.py",
 		"/C/Users/Octavi/tfg/account/views.py",
 		"/C/Users/Octavi/tfg/account/templates/account/login.html",
 		"/C/Users/Octavi/tfg/account/templates/base.html",
@@ -269,42 +308,11 @@
 		"/C/Users/Octavi/Desktop/alfredBarbero_Task2/test.calc",
 		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/tipos.h",
 		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.h",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.c",
-		"/C/Users/Octavi/Desktop/Prac3 IA/P3_octaviJuanDalmau.bat",
-		"/C/Users/Octavi/Desktop/Prac3 IA/P3_octaviJuanDalmau.clp",
-		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.668/regles.bat",
-		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.668/regles.clp",
-		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.326/labo2.clp",
-		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.326/labo2.bat",
-		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.819/labo1.clp",
-		"/C/Users/Octavi/AppData/Local/Temp/Rar$DRa0.819/labo1.bat",
-		"/C/Users/Octavi/Desktop/Practica3/Practica3_alfredBarbero.bat",
-		"/C/Users/Octavi/Desktop/Practica3/Practica3_alfredBarbero.clp",
-		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/Prac1.y",
-		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/Prac1.l",
-		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/operacions.h",
-		"/C/Users/Octavi/Desktop/Compiladors/OctaviJuan_P1/operacions.c",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/p1.y",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/test.prog",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/p1.l",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/operaciones.c",
-		"/C/Users/Octavi/Desktop/P1_compiladors/executar.sh",
-		"/C/Users/Octavi/Desktop/P1_compiladors/Informe.txt",
-		"/C/Users/Octavi/Desktop/P1_compiladors/prova.txt",
-		"/C/Users/Octavi/Desktop/alfredBarbero_Task1/ReadMe.txt",
-		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P1/README.txt",
-		"/C/Users/Octavi/Desktop/P1_compiladors/test1.calc",
-		"/C/Users/Octavi/Desktop/P1_compiladors/test3.calc",
-		"/C/Users/Octavi/Desktop/P1_compiladors/test2.calc",
-		"/C/Users/Octavi/Desktop/P1_compiladors/input2.txt",
-		"/C/Users/Octavi/Desktop/P1_compiladors/input.txt",
-		"/C/Users/Octavi/Desktop/P1_compiladors/operacions.c",
-		"/C/Users/Octavi/Desktop/P1_compiladors/operacions.h",
-		"/C/Users/Octavi/Desktop/P1_compiladors/Prac1.l"
+		"/C/Users/Octavi/Desktop/PerezGonzalez_Sergio_P2/operaciones.c"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -318,7 +326,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"prod",
+			"$",
+			"€",
+			"quan",
+			"img",
+			"menu",
+			"img",
+			"cart",
+			"item",
 			"sho",
 			"quan",
 			"base"
@@ -329,6 +344,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"€",
+			"€/Kg"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -339,164 +356,14 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "shop/templates/shop/shop.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4302,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								461,
-								539
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "tfg/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1354,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1233,
-								1233
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "recipe/templates/recipe/recipe_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 725,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								221,
-								221
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "shop/static/css/shop.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5552,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3751,
-								3751
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3673.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "shop/templates/shop/product/list.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -533,7 +400,7 @@
 	"project": "tfgProject.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
