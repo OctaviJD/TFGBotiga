@@ -8,7 +8,7 @@
         <h1 style="font-size: 50px">Receptes</h1>
         {% for recipe in recipes %}
     	 <div class="item">
-		<div class="card" style="width: 18rem;overflow-x: auto;">
+		<div class="card" style="width: 100%;overflow-x: auto;">
 			<img class="card-img-top" src="{% if recipe.image %}{{ recipe.image.url }}{% else %}{% static "img/no_image.png" %}{% endif %}">
 		  	<div class="card-body">
 		    	<h5 class="card-title"><a href="">{{ recipe.title }}</a></h5>
