@@ -5,6 +5,8 @@
 {% block content %}
 <div class="menu">
     <h1>El meu perfil</h1>
-   <p>Benvingut al meu perfil. You can <a href="{% url "edit" %}">edit your profile</a> or <a href="{% url "password_change" %}">change your password</a>.</p>
+   <p>Benvingut al meu perfil. Aquí pots realitzar les següents tasques:</p>
+   </p><a href="{% url "edit" %}"> <i class="fas fa-user-alt"></i> Edita el teu perfil</a> </p>
+   <p><a href="{% url "password_change" %}"><i class="fas fa-key"></i> Canvi de contrasenya</a>.</p>
 </div>
 {% endblock %}

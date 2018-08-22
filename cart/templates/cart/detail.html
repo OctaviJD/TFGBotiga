@@ -1,10 +1,6 @@
 {% extends "shop/shop.html" %}
 {% load static %}
 
-{% block title %}
-    La meva cistella de compra
-{% endblock %}
-
 {% block content %}
     <h1>La meva cistella de compra</h1>
     <table class="cart">
@@ -37,7 +33,7 @@
                     </form>
                 </td>
                 <td><a href="{% url "cart:cart_remove" product.id %}"><i class="fas fa-trash-alt fa-2x"></i></a></td>
-                <td class="num">{{ item.price }} €/Kg</td>
+                <td class="num">{{ item.price }} €/500g</td>
                 <td class="num">{{ item.total_price }} €</td>
             </tr>
             {% endwith %}
